@@ -4,7 +4,6 @@
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
-![Wayland](https://img.shields.io/badge/Wayland-FFBC00?style=for-the-badge&logo=wayland&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-89E051?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-111111?style=for-the-badge&logo=zedindustries&logoColor=white)
