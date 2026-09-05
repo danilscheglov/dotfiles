@@ -8,3 +8,14 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-111111?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/Alacritty-111111?style=for-the-badge&logo=alacritty&logoColor=white)
+
+## 📦 Contents
+
+- `alacritty/` — Alacritty configuration
+- `nvim/` — Neovim configuration
+- `zed/` — Zed configuration
+
+## 📜 License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
