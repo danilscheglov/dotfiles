@@ -1,0 +1,48 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/gruvbox-dark-hard-contrast.toml"
+]
+
+[env]
+TERM = "xterm-256color"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[window]
+title = "Alacritty"
+dynamic_title = true
+padding = { x = 15, y = 15 }
+opacity = 0.96
+
+[font]
+size = 9.0
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Bold Italic"
+
+[font.bold_italic]
+family = "JetBrainsMono Nerd Font"
+style = "Bold Italic"
+
+[font.offset]
+x = 0
+y = 1
+
+[cursor]
+style = { shape = "Block", blinking = "On" }
+blink_interval = 600
+blink_timeout = 5
+
+[mouse]
+hide_when_typing = true
