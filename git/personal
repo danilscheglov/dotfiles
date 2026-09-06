@@ -1,0 +1,7 @@
+[user]
+    name = Danil Scheglov
+    email = scheglovofficial@gmail.com
+    signingkey = 0776CA1DC349ACFF
+
+[commit]
+    gpgsign = true

@@ -1,0 +1,8 @@
+[user]
+	name = Danil Scheglov
+
+[includeIf "gitdir:~/Projects/Personal/"]
+    path = ~/.config/git/personal
+
+[includeIf "gitdir:~/Projects/Medsoft/"]
+    path = ~/.config/git/work

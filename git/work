@@ -1,0 +1,7 @@
+[user]
+    name = Danil Scheglov
+    email = scheglovda@medsoft.su
+    signingkey = 5C8709A358C6C7A1
+
+[commit]
+    gpgsign = true
