@@ -14,6 +14,7 @@
 - `alacritty/` — Alacritty configuration
 - `nvim/` — Neovim configuration
 - `zed/` — Zed configuration
+- `zsh/` — Zsh configuration
 
 ## 📜 License
 
