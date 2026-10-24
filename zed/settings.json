@@ -1,11 +1,4 @@
 {
-  "agent": {
-    "threads_sidebar": {
-      "auto_open": true
-    },
-    "favorite_models": [],
-    "model_parameters": []
-  },
   "telemetry": {
     "diagnostics": false,
     "metrics": false,
