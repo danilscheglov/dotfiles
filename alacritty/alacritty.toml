@@ -14,6 +14,7 @@ multiplier = 3
 title = "Alacritty"
 dynamic_title = true
 padding = { x = 15, y = 15 }
+dimensions = { columns = 180, lines = 45 }
 opacity = 0.96
 
 [font]
@@ -46,3 +47,11 @@ blink_timeout = 5
 
 [mouse]
 hide_when_typing = true
+
+[keyboard]
+bindings = [
+    { key = "C", mods = "Control|Shift", action = "Copy" },
+    { key = "V", mods = "Control|Shift", action = "Paste" },
+    { key = "Q", mods = "Control|Shift", action = "Quit" }
+]
+
