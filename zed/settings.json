@@ -1,4 +1,11 @@
 {
+  "agent": {
+    "threads_sidebar": {
+      "auto_open": true
+    },
+    "favorite_models": [],
+    "model_parameters": []
+  },
   "telemetry": {
     "diagnostics": false,
     "metrics": false,
@@ -8,11 +15,11 @@
   "base_keymap": "Zed",
 
   "project_panel": {
+    "folder_indicator": "icon",
     "button": true,
     "default_width": 350,
     "dock": "left",
     "file_icons": true,
-    "folder_icons": true,
     "git_status": true,
     "auto_reveal_entries": true,
     "auto_fold_dirs": true,
@@ -24,6 +31,7 @@
     },
     "hide_hidden": false,
     "hide_root": false,
+    "entry_spacing": "comfortable"
   },
 
   "ui_font_size": 15,
@@ -31,6 +39,7 @@
   "buffer_font_size": 12,
   "buffer_font_weight": 600,
   "buffer_line_height": "comfortable",
+
   "terminal": {
     "font_family": "JetBrainsMono Nerd Font",
     "font_size": 12,
@@ -42,18 +51,24 @@
   "rounded_selection": true,
   "selection_highlight": true,
 
-  "tabs": { "file_icons": true },
-  "toolbar": { "breadcrumbs": false, "quick_actions": false},
+  "tabs": {
+    "file_icons": true
+  },
+
+  "toolbar": {
+    "breadcrumbs": false,
+    "quick_actions": false
+  },
 
   "icon_theme": {
     "mode": "dark",
-    "light": "Zed (Default)",
-    "dark": "Zed (Default)"
+    "light": "JetBrains New UI Icons (Light)",
+    "dark": "JetBrains New UI Icons (Dark)"
   },
 
   "theme": {
     "mode": "dark",
-    "light": "Gruvbox Light",
-    "dark": "Gruvbox Dark Hard"
+    "light": "JetBrains Islands Light",
+    "dark": "JetBrains Islands Dark"
   }
 }
